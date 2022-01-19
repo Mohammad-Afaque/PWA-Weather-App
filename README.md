@@ -8,4 +8,4 @@ This app is basically a weather app built with react (dah!) using open weather a
 [adrianhajdin](https://github.com/adrianhajdin) and this is his [YouTube Channel](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 
 ## My Portfolio BTW
-[here](https://mohammad-afaque.github.io/portfolio/dist) yeah i know i am a free loader
+[here](https://afaque.now.sh/)
